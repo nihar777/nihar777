@@ -34,25 +34,24 @@ I enjoy solving engineering problems, improving existing codebases and building 
 [![npm version](https://img.shields.io/npm/v/apollo-cache-copilot?style=flat&logo=npm)](https://www.npmjs.com/package/apollo-cache-copilot)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/nihar777/apollo-cache-copilot)
 
-An open-source developer tool and MCP server designed to help diagnose Apollo Client `InMemoryCache` normalization problems and reference issues.
+An open-source developer tool and MCP server designed to help diagnose and investigate Apollo Client `InMemoryCache` normalization problems, dangling references and cache consistency issues.
 
 **Problems it helps investigate**
-- Dangling or orphaned `__ref` references.
-- Entities missing `__typename` or identifiers.
-- `keyFields` inconsistencies and cache normalization issues.
+- Dangling or orphaned `__ref` references in the Apollo cache.
+- Entities missing `__typename` or required identifiers.
+- `keyFields` inconsistencies that can cause entity normalization issues.
+- Cache reference and reachability problems.
 
 **Key capabilities**
-- `inspectDanglingRefs` — Inspects cache snapshots for dangling references.
+- `inspectDanglingRefs` — Inspects cache snapshots and identifies dangling references.
 - `patchCache` — Supports controlled cache repair operations.
 - `cacheAgentGraph` — Provides an inspect → reason → plan workflow.
 - CLI — Inspect cache snapshots using `apollo-copilot inspect <file>`.
-- MCP server — Integrates with compatible AI development clients, including Claude Desktop and Cursor.
+- MCP server — Integrates with AI development clients such as Claude Desktop and Cursor, enabling AI-assisted cache inspection and troubleshooting.
 
 **Technology:** TypeScript, Apollo Client, Model Context Protocol (MCP), Node.js, Vitest and GitHub Actions.
 
-**Published version:** `1.3.0`
-
-[View npm package](https://www.npmjs.com/package/apollo-cache-copilot) · [View GitHub repository](https://github.com/nihar777/apollo-cache-copilot)
+**Project links:** [npm Package](https://www.npmjs.com/package/apollo-cache-copilot) · [GitHub Repository](https://github.com/nihar777/apollo-cache-copilot)
 
 ---
 
