@@ -18,8 +18,8 @@ My experience spans mobile application development, API integrations, applicatio
 - Currently working as a **Software Engineer at IndiaNIC Infotech Limited**.
 - Experienced in developing and maintaining production React Native applications.
 - Worked with international clients and teams across France, the UK and the USA.
-- Contributed to Skill India Digital Hub, a national education platform with over 1 million downloads.
-- Experienced in integrating APIs, payment gateways, notifications, real-time services and third-party SDKs.
+- Contributed to Skill India Digital Hub, a national education platform.
+- Experienced in API integrations, payment gateways, notifications, real-time services and third-party SDK integrations.
 - Interested in mobile architecture, application performance, developer tooling and AI-assisted engineering.
 - Creator of [Apollo Cache Copilot](https://github.com/nihar777/apollo-cache-copilot), an open-source TypeScript developer tool and MCP server.
 
@@ -85,7 +85,7 @@ Claude Code, Cursor, GitHub Copilot, ChatGPT, Gemini and Antigravity.
 
 ---
 
-## Selected Mobile Projects
+## Featured Projects
 
 ### voy! — Nightlife & Social Networking
 
@@ -103,6 +103,8 @@ Contributed to reducing peak memory usage from approximately 900 MB–1 GB or mo
 
 **Technology:** React Native, TypeScript, WebSockets, Firebase and GetStream.
 
+**Available on:** [App Store](https://apps.apple.com/es/app/voy-salir-ligar-y-amigos/id1480241417) · [Google Play](https://play.google.com/store/apps/details?id=com.jit.voy)
+
 ### Emari Roast Cafe — Food & Beverage E-Commerce
 
 A mobile ordering application for browsing products, placing orders, making payments and tracking orders.
@@ -116,9 +118,11 @@ A mobile ordering application for browsing products, placing orders, making paym
 
 **Technology:** React Native, WebSockets, Google Maps API and payment gateways.
 
+**Available on:** [App Store](https://apps.apple.com/us/app/emari-cafe/id6768613013) · [Google Play](https://play.google.com/store/apps/details?id=com.emari.cafe)
+
 ### Skill India Digital Hub — Education Platform (NSDC India)
 
-A national digital education and skill development platform with over **1 million downloads**.
+A national digital education and skill development platform developed for India's skilling ecosystem.
 
 **Contributions**
 - Worked on complex API integrations.
@@ -127,6 +131,8 @@ A national digital education and skill development platform with over **1 millio
 - Contributed to application maintenance and production releases.
 
 **Technology:** React Native, Firebase and REST APIs.
+
+**Available on:** [App Store](https://apps.apple.com/in/app/skill-india-digital-hub/id1631506973) · [Google Play](https://play.google.com/store/apps/details?id=com.nsdcindia.skillindiaplatform)
 
 ### Credit Mountain — Fintech & Credit Reporting (USA)
 
@@ -142,7 +148,7 @@ A financial technology application focused on credit reporting and credit score-
 
 ### Whimstay — Travel & Hospitality
 
-A travel booking application focused on last-minute accommodation deals, with over **10,000 downloads**.
+A travel booking application focused on last-minute accommodation deals.
 
 **Contributions**
 - Developed the Saved Search module.
@@ -151,6 +157,8 @@ A travel booking application focused on last-minute accommodation deals, with ov
 - Contributed to feature development and application maintenance.
 
 **Technology:** React Native, Redux, TypeScript and REST APIs.
+
+**Available on:** [App Store](https://apps.apple.com/us/app/whimstay-vacation-rentals/id1439647360) · [Google Play](https://play.google.com/store/apps/details?id=com.wemaste)
 
 ### Referaly — Professional Networking (France)
 
@@ -164,6 +172,20 @@ A professional networking and referral application.
 - Worked on memory optimization, rendering improvements and API integrations.
 
 **Technology:** React Native, React Navigation, Sentry and REST APIs.
+
+**Available on:** [App Store](https://apps.apple.com/us/app/referaly/id6502189377) · [Google Play](https://play.google.com/store/apps/details?id=com.referaly)
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihar777&show_icons=true&hide_border=true&rank_icon=github" alt="Nihar's GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihar777&layout=compact&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
